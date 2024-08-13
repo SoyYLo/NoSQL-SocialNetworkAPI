@@ -4,16 +4,16 @@
     "description": "NoSQL Module 18 Challenge",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/SoyYLo/NoSQL-SocialNetworkAPI"
+        "type": "git",
+        "url": "https://github.com/SoyYLo/NoSQL-SocialNetworkAPI"
     },
     "dependencies": {
-      "express": "^4.18.2",
-      "moment": "^2.29.4",
-      "mongoose": "^7.3.1"
+        "express": "^4.18.2",
+        "moment": "^2.30.1",
+        "mongoose": "^7.3.1"
     }
-  }
+}
