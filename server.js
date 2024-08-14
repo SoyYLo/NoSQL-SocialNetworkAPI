@@ -1,6 +1,6 @@
 const express = require('express');
 const routes = require('./routes');
-const db = require('config/connection');
+const db = require('./config/connection');
 
 // import connection
 
