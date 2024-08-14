@@ -20,6 +20,14 @@ I also am able to successfully create and delete reactions to thoughts and add a
 - npm i express
 - npm i mongoose
 
+## Screenshots
+
+Here are a couple screenshots of my insomnia for an example
+<img width="1309" alt="Screenshot 2024-08-13 at 8 10 30 PM" src="https://github.com/user-attachments/assets/bd11284a-ebf6-46d8-b784-55a58bf20a45">
+<img width="1325" alt="Screenshot 2024-08-13 at 8 10 37 PM" src="https://github.com/user-attachments/assets/cb2d56e6-d4f5-4f20-bfa1-338ddaf9a26d">
+<img width="1315" alt="Screenshot 2024-08-13 at 8 10 54 PM" src="https://github.com/user-attachments/assets/e0256f1a-6710-4e60-8874-350be8dfa1da">
+<img width="1323" alt="Screenshot 2024-08-13 at 8 11 03 PM" src="https://github.com/user-attachments/assets/091db5ad-cd87-4f10-95b9-df0b375898bc">
+
 ## Walkthrough Link
 
 
